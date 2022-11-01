@@ -1,4 +1,4 @@
-# print even,odd and prime numbers rom 1 to 100
+# print even,odd and prime numbers from 1 to 100
 i=1
 print("Even number")
 while i<=100:
