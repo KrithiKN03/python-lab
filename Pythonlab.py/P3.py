@@ -7,4 +7,4 @@ if num>=0:
   if num>0:
     print("Positive")
 else:
-  print("Negative")# Write your code here :-)
+  print("Negative")
