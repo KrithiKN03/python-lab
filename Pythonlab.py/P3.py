@@ -1,3 +1,4 @@
+#check whether given number is positive,negative or zero using nested if statement
 num=int(input("Enter the number: "))
 if num>=0:
   print("NUMBER")
